@@ -1,2 +1,2 @@
-# list
-List to fork from
+# Hausputz checkliste
+Checkliste für regelmäßige Haushaltsreinigung
