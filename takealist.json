@@ -2,57 +2,60 @@
   {
     "takealist": {
       "meta": {
-        "title": "My first list",
-        "description": "This is an example for a takealist",
-        "status": "In Progress"
+        "title": "Hausputz-Checkliste",
+        "description": "Checkliste für regelmäßige Haushaltsreinigung"
       },
       "list": {
         "steps": [
           {
-            "step": "Fork",
-            "text": "Fork this list, if you like to share your list on github",
-            "status": "In Progress"
+            "step": "Lüften",
+            "text": "Alle Räume lüften"
           },
           {
-            "step": "Download",
-            "text": "Or just download this list on your device",
-            "status": "Waiting"
+            "step": "Blumen",
+            "text": "Entstauben und gießen"
           },
           {
-            "step": "Upload",
-            "text": "and upload it on https://takealist.app to explore the list"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "takealist": {
-      "meta": {
-        "title": "Further list",
-        "description": "As you can see, you are able to store many lists within 1 file",
-        "status": "Waiting"
-      },
-      "list": {
-        "steps": [
+            "step": "Schlafzimmer",
+            "text": "Bettwäsche neu beziehen, Betten machen"
+          },
           {
-            "step": "With many or only 1 step",
-            "text": "like this one",
-            "status": "Waiting"
+            "step": "Staubwischen",
+            "text": "in jedem Raum (Oberflächen)"
+          },
+          {
+            "step": "Küche reinigen",
+            "text": "Spühle, Spühlmaschine, Backofen, Kühlschrank"
+          },
+          {
+            "step": "Bad reinigen",
+            "text": "Spiegel, WC, Dusche"
+          },
+          {
+            "step": "Wäsche",
+             "text": "waschen und aufhängen"
+          },
+          {
+            "step": "Saugen",
+             "text": "Staubsaugen (oder Roboter anschalten)"
+          },
+          {
+            "step": "Müll",
+             "text": "rausbringen, neuer Sack"
+          },
+          {
+            "step": "Treppenhaus",
+            "text": "Treppenhaus putzen"
+          },
+          {
+            "step": "Türrahmen Lichtschalter",
+            "text": "abwischen"
+          },
+          {
+            "step": "Nass rauswischen",
+            "text": "und auf der Couch entspannen"
           }
         ]
-      }
-    }
-  },
-  {
-    "takealist": {
-      "meta": {
-        "title": "List without steps",
-        "description": "...is possible too",
-        "status": "In Progress"
-      },
-      "list": {
-        "steps": []
       }
     }
   }
